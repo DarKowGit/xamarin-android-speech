@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="messageSpeakNow">Talk nerdy to me...</string>
+	<string name="app_name">SpeechTest1</string>
+</resources>
